@@ -42,7 +42,6 @@ Thumbs.db
 .task.yaml
 
 # Secrets and credentials
-.env
 .env.local
 .env.*.local
 *.pem
