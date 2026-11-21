@@ -1,3 +1,6 @@
+1. docker云部署
+
+
 # WhatsApp MCP Extended
 
 An extended Model Context Protocol (MCP) server for WhatsApp with a toolset-gated, agent-facing surface for messaging, search, media, group management, webhooks, presence, and more.
